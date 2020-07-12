@@ -9,7 +9,7 @@
     "lint": "eslint --fix src",
     "test": "mocha --exit"
   },
-  "keywords": [],
+  "keywords": ["unsplash-api-proxy"],
   "author": "Kevin Kihara",
   "repository": {
     "type": "git",
